@@ -3,6 +3,7 @@
 	font-weight:bold;
 	font-size:300%;
 	color:#cb4b16;
+	padding-top:15px;
 }
 
 .menu-item {
@@ -29,6 +30,23 @@
 	max-width:1100px;
 	margin-left:auto;
 	margin-right:auto;
+}
+
+.center {
+    max-width: 1150px;
+    margin: auto;
+    overflow: visible;
+}
+.content-title {
+	font-family:helvetica;
+	font-weight:bold;
+	font-size:400%;
+	color:#002b36;
+	margin-top:500px;
+	margin-left:100px;
+	position: absolute;
+	transform: rotate(-90deg);
+	z-index: 100;
 }
 
 .content {
