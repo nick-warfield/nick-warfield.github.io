@@ -20,7 +20,29 @@ Lumber (#FFDFD3)
 	font-size:133%;
 	
 	padding-left:17px;
-	color:#002b36;
+}
+a:link {
+  color: #FEC8D8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FEC8D8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D291BC;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FFDFD3;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .menu {
@@ -32,18 +54,9 @@ Lumber (#FFDFD3)
 	display:flex;
 	justify-content:space-between;
 	align-items:flex-end;
-	padding-top:15px;
-	padding-left:7px;
-	padding-right:7px;
-	max-width:1100px;
+	max-width:1200px;
 	margin-left:auto;
 	margin-right:auto;
-}
-
-.center {
-    max-width: 1150px;
-    margin: auto;
-    overflow: visible;
 }
 
 .content-header {
