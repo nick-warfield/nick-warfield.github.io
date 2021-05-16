@@ -1,8 +1,16 @@
+/*
+Thistle (#E0BBE4),
+Lavender Purple (#957DAD),
+Pastel Violet (#D291BC),
+Cotton Candy (#FEC8D8),
+Lumber (#FFDFD3)
+*/
+
 .my-name {
 	font-family:helvetica;
 	font-weight:bold;
 	font-size:300%;
-	color:#cb4b16;
+	color:#FEC8D8;
 	padding-top:15px;
 }
 
@@ -41,7 +49,7 @@
 	font-family:helvetica;
 	font-weight:bold;
 	font-size:400%;
-	color:#002b36;
+	color:#957DAD;
 	margin-top:500px;
 	margin-left:100px;
 	position: absolute;
@@ -52,7 +60,7 @@
 .content {
 	font-family:helvetica;
 	font-size:175%;
-	color:#002b36;
+	color:#FEC8D8;
 	text-align:center;
 	padding-top:25px;
 	margin-left:auto;
@@ -62,7 +70,7 @@
 .content-body {
 	font-family:helvetica;
 	font-size:125%;
-	color:#002b36;
+	color:#FFDFD3;
 	max-width:700px;
 	text-align:center;
 	margin-left:auto;
@@ -71,5 +79,5 @@
 
 .hline {
 	max-width:1250px;
-	border:1.5px solid #002b36;
+	border:1.5px solid #957DAD;
 }
