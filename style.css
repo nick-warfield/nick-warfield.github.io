@@ -7,7 +7,7 @@ Lumber (#FFDFD3)
 */
 
 .my-name {
-	font-family:helvetica;
+	font-family:monaco;
 	font-weight:bold;
 	font-size:300%;
 	color:#FEC8D8;
@@ -15,7 +15,7 @@ Lumber (#FFDFD3)
 }
 
 .menu-item {
-	font-family:helvetica;
+	font-family:monaco;
 	font-weight:bold;
 	font-size:133%;
 	
@@ -60,7 +60,7 @@ a:active {
 }
 
 .content-header {
-	font-family:helvetica;
+	font-family:monaco;
 	font-size:225%;
 	color:#957DAD;
 	text-align:center;
@@ -69,7 +69,7 @@ a:active {
 }
 
 .content {
-	font-family:helvetica;
+	font-family:monaco;
 	font-size:175%;
 	color:#FEC8D8;
 	text-align:center;
@@ -79,7 +79,7 @@ a:active {
 }
 
 .content-body {
-	font-family:helvetica;
+	font-family:monaco;
 	font-size:125%;
 	color:#FFDFD3;
 	max-width:700px;
